@@ -68,9 +68,3 @@
 </div>
 </td></tr></table>  
 <br/>
-
-
-
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekyadav193&show_icons=true&locale=en&layout=compact" alt="vivekyadav193" /></p>
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekyadav193&" alt="vivekyadav193" /></p>
-
