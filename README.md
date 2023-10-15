@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vivek Yadav</h1>
 <h3 align="center">Passionate 3rd-year B.Tech student in Computer Science & Engineering at AKTU, India, specializing in AI/ML. Web development enthusiast creating innovative web applications by merging technical and creative skills. Constantly exploring new technologies to enhance coding proficiency. Explore my projects, contribute, and collaborate with me in shaping the future of the web! 👨‍💻🚀</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekyadav193&label=Profile%20views&color=0e75b6&style=flat" alt="vivekyadav193" /> </p>
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **vivekash03@gmail.com**
